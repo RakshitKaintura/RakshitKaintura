@@ -1,5 +1,5 @@
 <h1 align="center">Rakshit Kaintura</h1>
-<h3 align="center">AI Systems & Full Stack Developer</h3>
+<h3 align="center">Data Scienctist & Full Stack Developer & AI Enthusiast</h3>
 
 ---
 
