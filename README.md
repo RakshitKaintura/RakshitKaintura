@@ -17,8 +17,7 @@
 ---
 
 # 👋 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+<img align="right" alt="AI Animation" width="400" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-c4d6-4fca-b7cb-11cfc08e1e5a.gif">
 
 Hi! I'm **Rakshit Kaintura**, a passionate **Data Scientist & Full Stack Developer** from **India 🇮🇳**
 
