@@ -20,7 +20,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rakshitkaintura&color=7B68EE&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rakshitkaintura)
+[![Profile Views](https://komarev.com/ghpvc/?username=RakshitKaintura&color=7B68EE&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/RakshitKaintura)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshit-kaintura-31261a287/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blank1951k@gmail.com)
 
@@ -68,13 +68,13 @@ I work on building full-stack applications that combine **AI, backend systems, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakshitkaintura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=ffffff&rank_icon=github&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RakshitKaintura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=ffffff&rank_icon=github&count_private=true" width="48%" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitkaintura&theme=tokyonight&hide_border=true&background=0D1117&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE&sideLabels=7B68EE" width="48%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=RakshitKaintura&theme=tokyonight&hide_border=true&background=0D1117&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE&sideLabels=7B68EE" width="48%" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitkaintura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=ffffff&langs_count=8" width="40%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitKaintura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=ffffff&langs_count=8" width="40%" alt="Top Languages"/>
 
 </div>
 
@@ -88,7 +88,7 @@ I work on building full-stack applications that combine **AI, backend systems, a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rakshitkaintura&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RakshitKaintura&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -237,9 +237,9 @@ I work on building full-stack applications that combine **AI, backend systems, a
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakshitkaintura/rakshitkaintura/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakshitkaintura/rakshitkaintura/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rakshitkaintura/rakshitkaintura/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RakshitKaintura/RakshitKaintura/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RakshitKaintura/RakshitKaintura/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/RakshitKaintura/RakshitKaintura/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -254,7 +254,7 @@ I work on building full-stack applications that combine **AI, backend systems, a
 
 <div align="center">
 
-[![Rakshit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rakshitkaintura&bg_color=0D1117&color=7B68EE&line=7B68EE&point=FFFFFF&area=true&hide_border=true)](https://github.com/rakshitkaintura)
+[![Rakshit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RakshitKaintura&bg_color=0D1117&color=7B68EE&line=7B68EE&point=FFFFFF&area=true&hide_border=true)](https://github.com/RakshitKaintura)
 
 </div>
 
@@ -292,7 +292,7 @@ I work on building full-stack applications that combine **AI, backend systems, a
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="https://github.com/rakshitkaintura">
+<a href="https://github.com/RakshitKaintura">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
