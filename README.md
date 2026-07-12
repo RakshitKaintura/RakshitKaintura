@@ -152,14 +152,10 @@ I'm a final-year **B.E. Computer Science & Engineering** student (VTU, 2023–20
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
+<img src="https://streak-stats.demolab.com/?user=RakshitKaintura&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
 ---
