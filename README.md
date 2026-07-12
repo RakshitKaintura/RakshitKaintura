@@ -2,9 +2,9 @@
 
 # Hi, I'm Rakshit Kaintura 👋
 
-### Full-Stack Developer · AI/LLM Engineer · Data Scientist
+### Full-Stack Developer · AI/LLM Engineer
 
-Shipping production-grade web platforms and multi-agent AI systems — from idempotent Stripe checkouts to 11-agent LangGraph orchestrations.
+Turning ideas into production: full-stack apps with real payments, real-time features, and multi-agent AI at the core.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Top%2010%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)
@@ -23,7 +23,7 @@ I'm a final-year **B.E. Computer Science & Engineering** student (VTU, 2023–20
 - 🧩 Built **RAG pipelines** (Gemini embeddings, semantic chunking, vector retrieval) and event-driven backends (**Stripe, Inngest, WebSocket, Socket.io**)
 - 🛠️ Comfortable owning the full stack: relational schema design (Prisma/PostgreSQL), auth from scratch (JWT/Bcrypt), payments, and real-time infra
 - 🧠 Also bring MLOps depth — XGBoost, MLflow, Dagster — for teams that need ML alongside product engineering
-- 🏆 **Top 10%** on LeetCode with **1000+ problems solved**; active competitive programmer on Codeforces
+- 🏆 **Top 10%** on LeetCode with  active competitive programmer on Codeforces
 
 ---
 
