@@ -1,174 +1,164 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rakshit%20Kaintura&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=58&descColor=aaaaff" width="100%" />
+# Hi, I'm Rakshit Kaintura 👋
 
-<br/>
+### Full-Stack Developer · AI/LLM Engineer · Data Scientist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7B68EE&center=true&vCenter=true&repeat=true&width=650&lines=🤖+Building+AI-Powered+Applications;🧠+Multi-Agent+Systems+%26+LangGraph;📊+Data+Science+%26+Business+Intelligence;🚀+End-to-End+Product+Development;🌐+FastAPI+%7C+Next.js+%7C+PostgreSQL" />
+Shipping production-grade web platforms and multi-agent AI systems — from idempotent Stripe checkouts to 11-agent LangGraph orchestrations.
 
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=RakshitKaintura&color=7B68EE&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/RakshitKaintura)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshit-kaintura-31261a287/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blank1951k@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top%2010%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1mv23cs123@sirmvit.edu)
 
 </div>
 
 ---
 
-# 👋 About Me
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZ5c2g0ZXM0cGd3bW5vczk2aXQ3cG1kNXc5aGdzbW1mb2s1eW9pYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+## 🚀 About Me
 
-Hi! I'm **Rakshit Kaintura**, a passionate **Data Scientist & Full Stack Developer** from **India 🇮🇳**
+I'm a final-year **B.E. Computer Science & Engineering** student (VTU, 2023–2027) specializing in **full-stack engineering** and **multi-agent LLM systems**, with a strong ML/data science foundation underneath it all.
 
-I work on building full-stack applications that combine:
-
-- 🤖 Artificial Intelligence
-- 🏗️ Backend Engineering
-- 📊 Data Science
-- 🎨 Frontend Development
-- ☁️ Cloud Deployment
-
-### Current Focus
-
-- Multi-Agent AI Systems
-- Backend Architecture
-- Data Engineering
-- Full Stack Product Development
-- MLOps & Deployment
-
-### Learning
-
-- Advanced RAG Pipelines
-- AI Agent Orchestration
-- Cloud Native Deployments
-
-<br clear="right"/>
+- 🤖 Architect multi-agent systems with **LangGraph** — up to **11 specialized agents** orchestrated in a single pipeline (tutoring, code coaching, career prep, and more)
+- 🌐 Shipped **4 full-stack production apps** spanning e-commerce, ed-tech, fintech, and real-time messaging — built on **Next.js 16, React 19, FastAPI, and Node.js**
+- 🧩 Built **RAG pipelines** (Gemini embeddings, semantic chunking, vector retrieval) and event-driven backends (**Stripe, Inngest, WebSocket, Socket.io**)
+- 🛠️ Comfortable owning the full stack: relational schema design (Prisma/PostgreSQL), auth from scratch (JWT/Bcrypt), payments, and real-time infra
+- 🧠 Also bring MLOps depth — XGBoost, MLflow, Dagster — for teams that need ML alongside product engineering
+- 🏆 **Top 10%** on LeetCode with **1000+ problems solved**; active competitive programmer on Codeforces
 
 ---
 
-# 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Databases**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**AI / LLM Engineering**
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-4B8BBE?style=flat-square)
+![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square)
+![Vector Embeddings](https://img.shields.io/badge/-Vector%20Embeddings-4B8BBE?style=flat-square)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Inngest](https://img.shields.io/badge/-Inngest-000000?style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS%20S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Machine Learning & MLOps**
+![XGBoost](https://img.shields.io/badge/-XGBoost-006ACC?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Dagster](https://img.shields.io/badge/-Dagster-6E4AFF?style=flat-square)
+![ONNX](https://img.shields.io/badge/-ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
+
+---
+
+## 💼 Featured Projects
+
+### 🛒 [GoCart — Multi-Vendor E-Commerce Marketplace](#)
+`Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Prisma` `Stripe` `Clerk` `OpenAI API`
+- Architected a full-stack marketplace with a fully relational Prisma/PostgreSQL schema modeling Users, Stores, Products, Orders, Ratings, and Coupons, with role-based dashboards for Admins, Sellers, and Buyers.
+- Built idempotent Stripe webhook handlers for secure checkout and order reconciliation; offloaded async tasks (emails, inventory sync) to Inngest event-driven jobs to keep the critical request path fast.
+- Shipped AI-powered review summarization via the OpenAI API, integrated ImageKit for CDN image delivery, plus a subscription tier and coupon system.
+- Integrated Clerk for authentication and built responsive seller/admin dashboards for inventory and order management.
+
+### 🎓 [SkillMentor AI — Multi-Agent Adaptive Learning Platform](#)
+`Next.js 16` `FastAPI` `LangGraph` `LangChain` `Gemini` `RAG` `Supabase` `WebSocket`
+- Architected a multi-agent LangGraph system with **11 specialized agents** (Roadmap Architect, Lesson Teacher, Doubt Solver, Quiz Examiner, Code Coach, Career Prep, and more) that generate and adapt personalized learning journeys end-to-end.
+- Built a RAG pipeline (Gemini text-embedding-004, 512-token chunking, top-5 retrieval) letting learners upload their own study material for grounded, context-aware Q&A.
+- Developed real-time voice tutoring over WebSocket and a Socratic code-coaching sandbox that generates coding challenges, evaluates solutions, and gives hints without revealing answers.
+- Shipped career-readiness tooling — resume review, mock interviews with voice and text input, and verifiable certificate generation.
+
+### 📈 [MarketMind AI — Agentic Stock Analysis Platform](#)
+`Next.js` `React 19` `TypeScript` `MongoDB` `LangGraph` `Gemini` `Inngest` `Better Auth`
+- Architected an agentic state-graph pipeline (LangGraph + Gemini) chaining a data-fetch node into an LLM-analysis node, producing structured 8-section markdown reports per stock query.
+- Built a real-time dashboard with embedded TradingView charts, live ticker tape, and a persistent MongoDB-backed watchlist system.
+- Automated welcome emails and daily news digests via Inngest event-driven jobs integrated with Nodemailer.
+- Implemented session-based authentication with Better Auth and designed a deterministic fallback analysis path so the platform degrades gracefully when the LLM API is unavailable.
+
+### 📊 DataMind AI — Multi-Agent Data Analytics Automation
+`Python` `FastAPI` `LangGraph` `PostgreSQL` `pgvector` `Redis` `DuckDB`
+- Built a production-grade NL-to-SQL analytics platform using a LangGraph multi-agent architecture.
+- Implemented semantic caching, anomaly detection, and automated reporting pipelines.
+- Passed **24/24** backend validation checks supporting dashboard, PDF, and email analytics delivery.
+
+### 💬 [PulseChat — Real-Time Messaging Platform](#)
+`React` `Node.js` `Express.js` `MongoDB` `Socket.io` `Zustand` `JWT`
+- Built a custom JWT authentication system from scratch (no third-party auth provider) with Bcrypt password hashing and protected route middleware.
+- Implemented bidirectional real-time messaging with Socket.io, including live presence tracking, typing indicators, and toggleable sound notifications.
+- Integrated Cloudinary for in-chat image sharing, Resend for automated emails, and Arcjet for API rate limiting.
+- Deployed a production build on Render with Zustand managing client-side state across real-time data flows.
+
+<details>
+<summary><b>📁 More projects — ML & Data Science</b></summary>
+
+<br>
+
+**Customer Lifetime Value Prediction Engine** · `XGBoost` `Transformers` `FastAPI` `Dagster` `ONNX Runtime`
+- Hybrid ML system fusing probabilistic models, Transformers, and XGBoost; served via FastAPI with ONNX-optimized inference and SHAP explainability, achieving **sub-200ms inference**.
+
+**SafeRoute Bengaluru** · `XGBoost` `FastAPI` `React` `Leaflet`
+- XGBoost classifier on engineered geospatial features combined with live traffic/weather signals into a hybrid road-risk engine, visualized via a React + Leaflet interface.
+
+**Network Intrusion Detection System** · `XGBoost` `MLflow` `DagsHub` `FastAPI` `AWS S3` `Docker`
+- 4-stage ML pipeline (ingestion → validation → transformation → training) evaluating XGBoost, Random Forest, and AdaBoost, with artifacts synced to S3 and served via FastAPI.
+
+</details>
+
+---
+
+## 📜 Certifications
+
+- Supervised Machine Learning: Regression & Classification — DeepLearning.AI
+- Advanced Learning Algorithms — DeepLearning.AI
+- Unsupervised Learning, Recommenders & Reinforcement Learning — DeepLearning.AI
+- AWS Cloud Practitioner Essentials
+- Automation AI Accelerator: From Co-pilot to Autonomous Agent
+
+---
+
+## 🎓 Education
+
+**B.E. Computer Science & Engineering** — Sir M. Visvesvaraya Institute of Technology (VTU), Bengaluru
+2023 – 2027 | CGPA: 8.5/10
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RakshitKaintura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakshitKaintura&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/><br/>
-
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RakshitKaintura&theme=onedark&no-frame=true&row=1&column=6" width="100%" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| **🧠 DataMind AI** | NL → SQL BI platform with forecasting & dashboards | `LangGraph` `FastAPI` `PostgreSQL` |
-| **🏥 Rural AI Doctor** | AI healthcare system for rural environments | `RAG` `FastAPI` `Voice AI` |
-| **🎓 Skill Mentor AI** | Personalized AI learning platform | `LangGraph` `Next.js` |
-| **🗺️ SafeRoute Bengaluru** | ML-powered road accident prediction | `XGBoost` `GeoSpatial` |
-| **🛒 GoCart** | Marketplace with payments | `Node.js` `MongoDB` `React` |
-| **📈 AI Stock Analysis** | Agentic stock dashboard | `LangGraph` `Gemini` |
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Backend / APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### AI / ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-7B68EE?style=for-the-badge&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Knowledge_Retrieval-FF6B6B?style=for-the-badge)
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RakshitKaintura/RakshitKaintura/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RakshitKaintura/RakshitKaintura/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/RakshitKaintura/RakshitKaintura/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RakshitKaintura&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
----
-
-# ⚡ Current Focus
-
-```text
-🤖 Multi-Agent AI Systems   ████████████████████░░   85%
-🏗️ Backend Architecture    █████████████████░░░░░   75%
-📊 Data Engineering        ████████████████░░░░░░   70%
-🎨 Frontend (Next.js)      ██████████████░░░░░░░░   65%
-☁️ MLOps & Deployment      ████████████░░░░░░░░░░   55%
-```
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rakshit-kaintura-31261a287/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:blank1951k@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/RakshitKaintura">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -176,8 +166,8 @@ I work on building full-stack applications that combine:
 
 <div align="center">
 
-### *"The best code is the one that ships — and then improves."* 🚀
+📫 **Reach me at:** 1mv23cs123@sirmvit.edu &nbsp;|&nbsp; 📱 +91 8126745262 &nbsp;|&nbsp; 📍 Bengaluru, Karnataka
+
+⭐️ *Open to Full-Stack Development and AI/LLM Engineering roles*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
