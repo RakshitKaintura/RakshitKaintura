@@ -179,7 +179,7 @@ I'm a final-year **B.E. Computer Science & Engineering** student (VTU, 2023–20
 
 <div align="center">
 
-📫 **Reach me at:** 1mv23cs123@sirmvit.edu &nbsp;|&nbsp; 📱 +91 8126745262 &nbsp;|&nbsp; 📍 Bengaluru, Karnataka
+📫 **Reach me at:** rakshitkaintura2005@gmail.com &nbsp;|&nbsp; 📱 +91 8126745262 &nbsp;|&nbsp; 📍 Bengaluru, Karnataka
 
 ⭐️ *Open to Full-Stack Development and AI/LLM Engineering roles*
 
