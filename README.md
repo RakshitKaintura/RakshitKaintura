@@ -179,7 +179,7 @@ I'm a final-year **B.E. Computer Science & Engineering** student (VTU, 2023–20
 
 ## 🏆 Achievements
 
-- Solved **1000+ algorithmic problems** on LeetCode, ranking in the **Top 10% globally**.
+- Solving algorithmic problems on LeetCode, ranking in the **Top 10% globally**.
 - Active competitive programmer on **Codeforces**, practicing algorithmic problem solving under contest time constraints.
 
 ---
